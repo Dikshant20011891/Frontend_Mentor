@@ -2,7 +2,7 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-# Live Link - 
+# Live Link - https://dikshant20011891.github.io/Frontend_Mentor/QR_Code/
 
 ## Welcome! 👋
 
