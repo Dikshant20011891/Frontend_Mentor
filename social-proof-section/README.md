@@ -2,6 +2,8 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
+# Live Link - https://dikshant20011891.github.io/Frontend_Mentor/social-proof-section/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
