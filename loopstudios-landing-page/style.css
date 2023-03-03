@@ -219,7 +219,7 @@ header{
     margin-left: 29.8rem;
 }
 
-@media screen and (max-width : 380px)
+@media screen and (max-width : 450px)
 {
     .nav{
         padding-left: 2rem;
